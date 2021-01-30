@@ -1,14 +1,14 @@
 {
-    "Bot Version": "0.0.1",
+    "Bot Version": "4.0.6",
     "Troll Mode": "false",
     "Secret Password": "don't neeeded right now",
     "Account": {
-      "Email": "gummyloofake@gmail.com",
+      "Email": "Your_bot_email",
       "Password": "no password needed",
       "Prefix": "!"
     },
     "Control": {
-      "Give full access to": ["08f2041f3afb4bc788dda2c648009178"],
+      "Give full access to": ["your account id"],
       "Public Bot": "false"
     },
     "Party": {
@@ -16,7 +16,8 @@
         "Banner": {
           "Banner Color": "defaultcolor15",
           "Banner Name": "Winter2018CrownFlame",
-          "Season Level": 100
+          "Season Level": "100",
+          "battle pass tier":"1"
         },
         "Skin": "CID_028_Athena_Commando_F",
         "Backpack": "BID_023_Pinkbear",
