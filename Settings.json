@@ -1,6 +1,5 @@
 {
     "Bot Version": "4.0.6",
-    "Troll Mode": "false",
     "Secret Password": "don't neeeded right now",
     "Account": {
       "Email": "Your_bot_email",
@@ -22,8 +21,7 @@
         "Skin": "CID_028_Athena_Commando_F",
         "Backpack": "BID_023_Pinkbear",
         "Pickaxe": "HalloweenScythe",
-        "Emote": "EID_Kilo_VD0PK",
-        "prefix": "!"
+        "Emote": "EID_Kilo_VD0PK"
       },
       "Platform": "PS5",
       "Join party on invitation": "false"
