@@ -1,0 +1,34 @@
+{
+    "Bot Version": "0.0.1",
+    "Troll Mode": "false",
+    "Secret Password": "don't neeeded right now",
+    "Account": {
+      "Email": "gummyloofake@gmail.com",
+      "Password": "no password needed",
+      "Prefix": "!"
+    },
+    "Control": {
+      "Give full access to": ["08f2041f3afb4bc788dda2c648009178"],
+      "Public Bot": "false"
+    },
+    "Party": {
+      "Cosmetics": {
+        "Banner": {
+          "Banner Color": "defaultcolor15",
+          "Banner Name": "Winter2018CrownFlame",
+          "Season Level": 100
+        },
+        "Skin": "CID_028_Athena_Commando_F",
+        "Backpack": "BID_023_Pinkbear",
+        "Pickaxe": "HalloweenScythe",
+        "Emote": "EID_Kilo_VD0PK",
+        "prefix": "!"
+      },
+      "Platform": "PS5",
+      "Join party on invitation": "false"
+      
+    },
+    "Friends": {
+      "Accept all friend requests": "false"
+    }
+  }
