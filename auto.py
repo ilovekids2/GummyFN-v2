@@ -252,7 +252,7 @@ if CheckUpdate("requirements.txt", githuburl):
 CheckUpdate("Settings.json", githuburl)
 CheckUpdate(".replit", githuburl)
 if not os.getcwd().startswith('/app') and not os.getcwd().startswith('/home/runner'):
-    CheckUpdate("poetry.lock", githuburl)
+    
     CheckUpdate("Settings.json", githuburl)
     CheckUpdate(".replit", githuburl)
 else:
