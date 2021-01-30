@@ -5,9 +5,5 @@ sanic
 fortnitepy
 FortniteAPIAsync
 BenBotAsync
-traceback
-requests
-time
-json
 sys
 os
