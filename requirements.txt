@@ -5,5 +5,3 @@ sanic
 fortnitepy
 FortniteAPIAsync
 BenBotAsync
-sys
-os
