@@ -1,3 +1,0 @@
-#name it to .replit
-language = "python3"
-run = "pip3 install -r requirements.txt\npip install GummyFN\npython3 main.py" 
