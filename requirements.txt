@@ -7,3 +7,4 @@ FortniteAPIAsync
 BenBotAsync
 crayons
 GummyFN
+discord
