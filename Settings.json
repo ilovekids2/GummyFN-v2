@@ -6,6 +6,11 @@
       "Password": "no password needed",
       "Prefix": "!"
     },
+    "Discord": {
+        "Discord": "false",
+        "Token": "",
+        "Owner": ""
+    },
     "Control": {
       "Give full access to": ["your account id"],
       "Public Bot": "false"
