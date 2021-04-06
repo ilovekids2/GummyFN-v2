@@ -1,21 +1,21 @@
 {
-    "Bot Version": "0.0.1",
-    "Secret Password": "don't neeeded right now",
     "Account": {
       "Email": "@gmail.com",
-      "Password": "no password needed",
       "Prefix": "!"
     },
     "Discord": {
-        "Discord": "false",
-        "Token": "",
-        "Owner": ""
+        "Token": ""
     },
     "Control": {
-      "Give full access to": ["your account id"],
-      "Public Bot": "false"
+      "Give full access to": ["Your Account ID"],
+      "Public Bot": "true"
     },
     "Party": {
+      "Join Message": {
+        "YouTube": "",
+        "TikTok": "",
+        "Twitter": ""
+      },
       "Cosmetics": {
         "Banner": {
           "Banner Color": "defaultcolor15",
@@ -29,10 +29,10 @@
         "Emote": "EID_Kilo_VD0PK"
       },
       "Platform": "PS5",
-      "Join party on invitation": "false"
+      "Join party on invitation": "true"
       
     },
     "Friends": {
-      "Accept all friend requests": "false"
+      "Accept all friend requests": "true"
     }
   }
