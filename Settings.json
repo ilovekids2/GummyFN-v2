@@ -3,6 +3,9 @@
       "Email": "@gmail.com",
       "Prefix": "!"
     },
+    "Web": {
+        "Password": "password"
+    },
     "Discord": {
         "Token": ""
     },
